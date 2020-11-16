@@ -1,2 +1,2 @@
-# sd208bookStore
-Group Project with Evangeline D.
+# sd208bookstore
+Bookstore API
